@@ -1,0 +1,46 @@
+{
+  "title": "رأس الخيمة",
+  "sign-in":{
+    "heading": "تسجيل الدخول",
+    "sub-heading": "الرجاء تسجيل الدخول أدناه للمتابعة.",
+    "email": "بريد إلكتروني",
+    "password": "كلمة المرور",
+    "enter-email": "أدخل البريد الإلكتروني",
+    "enter-password": "أدخل كلمة المرور",
+    "remember-me": "تذكرنى",
+    "login": "تسجيل الدخول",
+    "forgotten-password": "نسيت كلمة المرور ?",
+    "a-new-member": "هل أنت عضو جديد ?",
+    "create-your-account": "قم بإنشاء حسابك",
+    "email-error-message": "البريد الإلكتروني مطلوب.",
+    "email-is-invalid": "البريد الإلكتروني غير صالح.",
+    "password-is-required": "كلمة المرور مطلوبة.",
+    "password-must-6-characters": "يجب أن تتكون كلمة المرور من 6 أحرف على الأقل.",
+    "your-password-wrong": "كلمة المرور الخاصة بك خاطئة."
+  },
+  "forgot-password":{
+    "heading": "هل نسيت كلمة السر",
+    "sub-heading": "الرجاء إدخال عنوان البريد الإلكتروني لتسجيل الدخول أدناه لطلب كلمة المرور الجديدة.",
+    "email": "بريد إلكتروني",
+    "enter-email": "أدخل البريد الإلكتروني",
+    "back-to-sign-in": "العودة إلى تسجيل الدخول",
+    "recover-account": "استرداد الحساب",
+    "email-error-message": "البريد الإلكتروني مطلوب.",
+    "email-is-invalid": "البريد الإلكتروني غير صالح."
+  },
+   "header": {
+     "home": "بيت",
+     "e-services": "الخدمات الإلكترونية",
+     "about-us": "معلومات عنا",
+     "services": "خدمات",
+     "media-center": "المركز الإعلامي",
+     "contact-us": "اتصل بنا",
+     "service-one": "خدمة واحدة",
+    "service-two": "الخدمة الثانية",
+    "service-three": "الخدمة الثالثة",
+    "about-us-one": "عنا واحد",
+    "about-us-two": "عنا اثنان",
+    "about-us-three": "عنا الثلاثة"
+   },
+  "banner-heading": "التحكيم"
+ }

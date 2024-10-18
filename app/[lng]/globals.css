@@ -1,0 +1,106 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: #F6F7FB;
+  color: #343434;
+  font-size: 15px;
+}
+
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+@layer components {
+  .theme-blue-btn {
+    @apply uppercase rounded-md bg-primary-300 text-white py-4 px-9 self-start
+  }
+  .swiper.servicesSwiper{
+    @apply pb-36 static
+  }
+}
+
+
+.container{
+  width: 80%;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.custom_checkbox_style label{
+  position: relative;
+  cursor: pointer;
+}
+.custom_checkbox_style label::before{
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1.5rem;
+  height: 1.5rem;
+  border: 2px solid #0D2F80;
+  border-radius: 2px;
+}
+.custom_checkbox_style label::after{
+  content: "\2713";
+  position: absolute;
+  left: 2px;
+  top: 2px;
+  width: 1.3rem;
+  height: 1.3rem;
+  background: #0D2F80;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  opacity: 0;
+}
+.custom_checkbox_style input:checked+label:after{
+  opacity: 1;
+}
+.registration_card_inner{
+  width: min(50vw, 700px); 
+  min-height: 615px;
+}
+.text-shadow{
+  text-shadow: 0px 3px 11px #000000;
+}
+
+
+.our-services-slider .swiper-button-prev, .our-services-slider .swiper-button-next{
+  color: #0D5492;
+}
+.our-services-slider .swiper-button-prev{
+  left: -50px;
+}
+.our-services-slider .swiper-button-next{
+  right: -50px;
+}
+.arabic .our-services-slider .swiper-button-prev{
+  left: auto;
+  right: -50px;
+}
+.arabic .our-services-slider .swiper-button-next{
+  right: auto;
+  left: -50px;
+}

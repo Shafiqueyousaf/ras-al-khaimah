@@ -1,0 +1,46 @@
+{
+  "title": "Ras Al Khaimah",
+  "sign-in":{
+    "heading": "Sign In",
+    "sub-heading": "Please sign-in below to continue.",
+    "email": "Email",
+    "password": "Password",
+    "enter-email": "Enter your email",
+    "enter-password": "Enter your password",
+    "remember-me": "Remember me",
+    "login": "Login",
+    "forgotten-password": "Forgotten Password ?",
+    "a-new-member": "Are you a new member ?",
+    "create-your-account": "Create Your Account",
+    "email-error-message": "Email is required.",
+    "email-is-invalid": "Email is invalid.",
+    "password-is-required": "Password is required.",
+    "password-must-6-characters": "Password must be at least 6 characters.",
+    "your-password-wrong": "Your password is wrong"
+  },
+  "forgot-password":{
+    "heading": "Forgot Password",
+    "sub-heading": "Please enter your sign in email address below to request your new password.",
+    "email": "Email",
+    "enter-email": "Enter your email",
+    "back-to-sign-in": "Back to Sign In",
+    "recover-account": "Recover account",
+    "email-error-message": "Email is required.",
+    "email-is-invalid": "Email is invalid."
+  },
+  "header": {
+    "home": "Home",
+    "e-services": "e-Services",
+    "about-us": "About Us",
+    "services": "Services",
+    "media-center": "Media Center",
+    "contact-us": "Contact Us",
+    "service-one": "Service One",
+    "service-two": "Service Two",
+    "service-three": "Service Three",
+    "about-us-one": "About Us One",
+    "about-us-two": "About Us Two",
+    "about-us-three": "About Us Three"
+  },
+  "banner-heading": "Arbitr ation"
+}

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="107" height="115.939" viewBox="0 0 107 115.939">
+  <g id="Group_3363" data-name="Group 3363" transform="translate(-924.455 -3730.031)">
+    <path id="Union_10" data-name="Union 10" d="M52.72,103.606c-.179-7.95,0-43.857,0-43.857l-9.482,4V99.941s.3,6.366,5.019,9.652c-11.714-7.721-14.284-9.294-14.224-15.9.061-6.688,0-25.825,0-25.825A112.437,112.437,0,0,0,0,95.43C6.588,80.642,19.323,67.456,34.034,57.384c.086-17.286,0-38.789,0-38.789s-2.292-3.255-5.854,0S43.238,0,43.238,0V52.251L51.1,48.6V26.362L48.678,28.4,64.392,7.766v34.37l37.514-18.258V37.8S79.259,51.524,70.287,67.864c8.855-20.2,1.99-14.442,8.472-19.99s-14.366,6.59-14.366,6.59V109.87L68,115.939S52.9,111.556,52.72,103.606Zm-4.463,5.987.42.277Q48.462,109.735,48.258,109.593Zm53.649-66.037V53.729s-23.268,10.4-33.71,28.3C71.461,53.879,101.906,43.555,101.906,43.555Z" transform="translate(927.455 3730.031)" fill="#fff" opacity="0.079"/>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(954.455 3764)">
+      <g id="invisible_box" data-name="invisible box">
+        <rect id="Rectangle_563" data-name="Rectangle 563" width="48" height="48" fill="none"/>
+      </g>
+      <g id="Q3_icons" data-name="Q3 icons">
+        <g id="Group_3362" data-name="Group 3362">
+          <path id="Path_3591" data-name="Path 3591" d="M6,4H6A2,2,0,0,1,8,6V40H40V6a2,2,0,0,1,2-2h0a2,2,0,0,1,2,2V42a2,2,0,0,1-2,2H6a2,2,0,0,1-2-2V6A2,2,0,0,1,6,4Z" fill="#fff" stroke="#373c3f" stroke-width="1"/>
+          <circle id="Ellipse_478" data-name="Ellipse 478" cx="2" cy="2" r="2" transform="translate(28 4)" fill="#fff" stroke="#373c3f" stroke-width="1"/>
+          <circle id="Ellipse_479" data-name="Ellipse 479" cx="2" cy="2" r="2" transform="translate(34 4)" fill="#fff" stroke="#373c3f" stroke-width="1"/>
+          <circle id="Ellipse_480" data-name="Ellipse 480" cx="2" cy="2" r="2" transform="translate(22 4)" fill="#fff" stroke="#373c3f" stroke-width="1"/>
+          <circle id="Ellipse_481" data-name="Ellipse 481" cx="2" cy="2" r="2" transform="translate(16 4)" fill="#fff" stroke="#373c3f" stroke-width="1"/>
+          <circle id="Ellipse_482" data-name="Ellipse 482" cx="2" cy="2" r="2" transform="translate(10 4)" fill="#fff" stroke="#373c3f" stroke-width="1"/>
+          <path id="Path_3592" data-name="Path 3592" d="M31.4,18.5l-6-5.9a1.9,1.9,0,0,0-2.8,0l-6,5.9a2.1,2.1,0,0,0-.2,2.7,1.9,1.9,0,0,0,3,.2L22,18.8V34a2,2,0,0,0,4,0V18.8l2.6,2.6a1.9,1.9,0,0,0,3-.2,2.1,2.1,0,0,0-.2-2.7Z" fill="#fff" stroke="#373c3f" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+    <g id="Ellipse_483" data-name="Ellipse 483" transform="translate(924.455 3735)" fill="none" stroke="#d5d5d5" stroke-linecap="round" stroke-width="2">
+      <circle cx="53.5" cy="53.5" r="53.5" stroke="none"/>
+      <circle cx="53.5" cy="53.5" r="52.5" fill="none"/>
+    </g>
+  </g>
+</svg>
